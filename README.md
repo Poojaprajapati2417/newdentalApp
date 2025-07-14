@@ -8,11 +8,8 @@ MediConnect is a full-stack healthcare web application that connects doctors and
 
 - 👨‍⚕️ Doctor & Patient Registration/Login
 - 🔐 JWT-based Authentication & Protected Routes
-- 📅 Book Appointments by Date, Time & Concern
-- 🗺️ Search Nearby Doctors and Hospitals
 - 📂 File Upload: Profile Photo, License Image
 - 📊 Admin Dashboard for Managing Users
-- 🧠 Concern-based Filtering (e.g., Skin, Dental, Heart)
 - 🔄 Real-time Form Validation
 - 🎯 Responsive UI with Tailwind CSS
 - 🌐 Frontend-Backend Integration with Axios
